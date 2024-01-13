@@ -1,0 +1,157 @@
+body{
+   margin: 0cm;
+}
+
+div{
+    font-family: Tahoma;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+
+}
+
+p{
+    margin: 10px auto;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: justify;
+    width: 900px;
+
+}
+
+.secao-1{
+    background-color: #afddfd;
+}
+
+.secao-1 img{
+    width: 150px;
+
+}
+
+.secao-1 p {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+.secao-1 a {
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: 2px solid  #1d1d1d;
+    text-decoration: none;
+    margin: auto 10px;
+
+}
+
+.secao-2 {
+    margin-top: 50px;
+    padding-top: 0px;
+}
+
+span {
+    font-weight: bold;
+}
+
+.secao-3 h1 {
+    color: #1d1d1d;
+    margin-bottom: 5px;
+
+}
+
+.secao-3 h2 {
+
+    color:  #1c81c0;
+    font-weight: normal;
+    margin-top: 0;
+}
+
+h3 {
+    color: #1c81c0;
+    font-size: 26px;
+    
+
+}
+
+.secao-3 img, .secao-5 img {
+    width: 450px;
+}
+
+.secao-3 span, .secao-5 span     { color : #1c81c0 ;
+
+}
+
+.secao-4, .secao-6 {
+    background-color: #afddfd ;
+}
+
+.secao-4 h3, .secao-6 h3{
+    color: white;
+    font-size: 26px;
+    line-height: 42px;
+    
+
+}
+
+.secao-4 p {
+    color: white;
+    font-size: 18px;
+    line-height: 42px;
+    width: 700px;
+    text-align: center;
+
+}
+
+.secao-4 span, .secao-6 span {
+    color: #fff81b;
+
+}
+
+.secao-4 ul {
+    width: 135px;
+    margin:  40px auto;
+    color: white;
+    font-size: 22px;
+    line-height: 42px;
+    text-align: left;
+}
+
+.secao-6 p {
+    color: white;
+    background-color: black;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 15px;
+    width: 1000px;
+    text-align: center;
+}
+
+iframe {
+    width: 800px;
+    height: 400px;
+}
+
+.secao-6 ul {
+    margin: 40px auto;
+    text-decoration: none;
+    width: 210px;
+    list-style: none;
+    
+}
+
+.secao-6 li{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.secao-6 a{
+    background-color: white;
+    color: #1c81c0;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
+
+.secao-5 img{
+    border-radius: 500px;
+    border: 3px solid #61aede69;
+}
